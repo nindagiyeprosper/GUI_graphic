@@ -1,14 +1,14 @@
-# ?? Interface simple
+# Interface simple
  L'interface simple
  
  
-## ?? Installation 
+## Installation 
 \`\`\`bash 
 pip install flet 
 python "GUI.py" 
 \`\`\` 
  
  
-## ?? Auteur 
+## Auteur 
 **Prosper Nindagiye** 
 - Email: nindagiyeprosper@gmail.com 
